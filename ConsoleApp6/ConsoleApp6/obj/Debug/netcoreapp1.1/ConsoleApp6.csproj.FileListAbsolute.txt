@@ -1,0 +1,10 @@
+C:\Users\reinis.tilaks\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp1.1\ConsoleApp6.deps.json
+C:\Users\reinis.tilaks\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp1.1\ConsoleApp6.runtimeconfig.json
+C:\Users\reinis.tilaks\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp1.1\ConsoleApp6.runtimeconfig.dev.json
+C:\Users\reinis.tilaks\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp1.1\ConsoleApp6.dll
+C:\Users\reinis.tilaks\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp1.1\ConsoleApp6.pdb
+C:\Users\reinis.tilaks\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp1.1\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\reinis.tilaks\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp1.1\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\reinis.tilaks\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp1.1\ConsoleApp6.AssemblyInfo.cs
+C:\Users\reinis.tilaks\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp1.1\ConsoleApp6.dll
+C:\Users\reinis.tilaks\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp1.1\ConsoleApp6.pdb
