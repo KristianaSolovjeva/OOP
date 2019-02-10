@@ -1,0 +1,7 @@
+C:\Users\kristiana.solovjeva\source\repos\OOPHomework\OOPHomework\bin\Debug\OOPHomework.exe.config
+C:\Users\kristiana.solovjeva\source\repos\OOPHomework\OOPHomework\bin\Debug\OOPHomework.exe
+C:\Users\kristiana.solovjeva\source\repos\OOPHomework\OOPHomework\bin\Debug\OOPHomework.pdb
+C:\Users\kristiana.solovjeva\source\repos\OOPHomework\OOPHomework\obj\Debug\OOPHomework.csprojAssemblyReference.cache
+C:\Users\kristiana.solovjeva\source\repos\OOPHomework\OOPHomework\obj\Debug\OOPHomework.csproj.CoreCompileInputs.cache
+C:\Users\kristiana.solovjeva\source\repos\OOPHomework\OOPHomework\obj\Debug\OOPHomework.exe
+C:\Users\kristiana.solovjeva\source\repos\OOPHomework\OOPHomework\obj\Debug\OOPHomework.pdb
